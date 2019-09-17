@@ -1,3 +1,8 @@
+# Week2
+
+## Slide
+
+## TA Hour 
 * [環境設置 (macOS)](https://hackmd.io/@ysliu/HJiVlbYLH)
     * 安裝 Anaconda 以建立 Python 開發環境
     * 建議版本使用 Python 3.6 或 3.7
